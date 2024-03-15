@@ -9,8 +9,6 @@
 1. [Introduction](#introduction)
      - [Features](#features)
 3. [Screenshots](#screenshots)
-     - [Portrait View](#portrait-view)
-     - [Landscape View](#landscape-view)
 4. [Installing](#installing)
 5. [Basic Usage](#basic-usage)
 6. [Customizing Appearance](#customizing-appearance)
